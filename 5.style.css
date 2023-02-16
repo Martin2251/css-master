@@ -3,3 +3,10 @@
     font-size: 35px;
     font-weight:400;
 }
+
+.personal{
+    height: 700px;
+    width:1000px;
+    object-fit: cover;
+    /* allows aspect ratio to be preserved */
+}
