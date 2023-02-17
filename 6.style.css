@@ -1,0 +1,11 @@
+/* child selector > */
+
+.hero > h6 {
+
+}
+
+/* descender selector */
+
+.hero h6{
+font-size:2em;
+}
