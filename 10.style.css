@@ -1,5 +1,19 @@
 .testimonial{
-    border: 2px solid green;
+    /* border: 2px solid green;
     padding-top:20px;
     padding-right: 20px;
+    padding-bottom: 30px;
+    padding-left: 10px;
+    top and go clockwise !!!! */
+
+    /* 3 values top ,right and left, and bottom
+    padding:50px 10px 30px;
+ */
+  /* 2 values 1st top and bottom and then 2nd is right and left */
+
+  /* padding: 30px 10px;
+
+  1 value its uniform throughout 
+  padding:40px  */
+
 }
