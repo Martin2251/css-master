@@ -1,0 +1,12 @@
+.experience i:first-child{
+    color:blue;
+}
+
+.experience li:first-child{
+    color:green;
+}
+
+
+.experience li:first-of-type {
+    color:lightslategray;
+}

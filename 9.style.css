@@ -1,0 +1,16 @@
+/* all css postions have static properties  */
+
+.personal-info_title{
+    /* position: static; default */
+    /* position: relative;
+
+    /* when you do postion relative you have top bottom left and right avaliable  */
+
+    /* position: fixed;
+    always at top */
+    /* position:sticky;  */
+
+
+/*   this is always needed  you will always need postion relative in the parent   
+    position: absolute; */
+} 
