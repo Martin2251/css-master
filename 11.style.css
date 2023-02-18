@@ -1,6 +1,28 @@
+
+.nav > a{
+display: inline-block;
+color:white;
+background-color: grey;
+border:1px solid grey;
+border-radius: 20px;
+padding:10px;
+text-decoration: none;
+
+}
+
+
+a:hover {
+    background-color: white;
+    color:grey;
+    cursor: pointer;
+  }
+
+
+
 .testimonial{
 
     /* same as padding but this is outside the element  */
 
     margin:10px;
 }
+
